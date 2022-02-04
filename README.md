@@ -1,8 +1,12 @@
 # ML-Reproducibility-Challenge-2021
 R252  ML Reproducibility Challenge
 
+![image-20220204091008862](/Users/zhaowanru/Library/Application Support/typora-user-images/image-20220204091008862.png)
+
+
 
 ## Setup environment
+
 Create an environment with conda:
 ```sh
 conda create -n gem python=3.8.8
