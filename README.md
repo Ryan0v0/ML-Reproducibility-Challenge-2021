@@ -1,7 +1,7 @@
 # ML-Reproducibility-Challenge-2021
 R252  ML Reproducibility Challenge
 
-![image-20220204091008862](/Users/zhaowanru/Library/Application Support/typora-user-images/image-20220204091008862.png)
+![image-20220204091008862](https://tva1.sinaimg.cn/large/008i3skNgy1gz1kq9shmhj30xq0dwgn1.jpg)
 
 
 
